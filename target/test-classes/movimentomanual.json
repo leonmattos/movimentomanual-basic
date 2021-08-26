@@ -1,0 +1,23 @@
+{
+  "movimentoManualId": {
+    "mes": 1,
+    "ano": 2021,
+    "numeroLancamento": 1,
+    "cosif": {
+      "cosifId": {
+        "produto": {
+          "codProduto": "001",
+          "descricao": "Garfo",
+          "status": "1"
+        },
+        "codCosif": "001"
+      },
+      "codClassificacao": "000001",
+      "staStatus": "0"
+    }
+  },
+  "descricao": "DESCRIÇÃO DO MOVIMENTO2",
+  "dataMovimento": "2021-08-24",
+  "codUsuario": "TESTE",
+  "valValor": 10.00
+}
